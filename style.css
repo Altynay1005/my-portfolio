@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("tree.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: red;
+}
